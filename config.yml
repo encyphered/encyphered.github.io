@@ -47,6 +47,11 @@ links:
       alt: "YouTube"
       title: "CYPHER'S CAMPING VLOG"
       target: "_blank"
+  - link:
+      icon: "fa-solid fa-list"
+      text: "Snow Peak Festival limited-product list since 2007"
+      url: "https://geunwoo.me/snowpeak-sepposai/"
+      target: "_blank"
 
 
 # List of social media links
